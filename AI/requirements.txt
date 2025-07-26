@@ -1,0 +1,8 @@
+streamlit
+whisper
+
+transformers
+torch
+torchvision
+Pillow
+accelerate
