@@ -50,7 +50,7 @@ In the demo walkthrough, both age-group experiences were showcased live!
 
 - **Frontend:** Next.js, TypeScript, Tailwind CSS  
 - **Backend:** FastAPI, MongoDB, WebSockets  
-- **AI / Models:** Whisper STT, Valhalla T5, LLaMA-3.3-70B, Retrieval-Augmented Generation (RAG)
+- **AI:** Whisper STT, Valhalla T5, LLaMA-3.3-70B, Retrieval-Augmented Generation (RAG)
 
 ---
 
