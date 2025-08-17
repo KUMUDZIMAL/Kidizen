@@ -1,10 +1,6 @@
 <h1>🚀 AI-Powered Kidizen: Empowering Children with Their Rights 🎉</h1>
 
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Next.js](https://img.shields.io/badge/Frontend-Next.js-blue)
-![FastAPI](https://img.shields.io/badge/Backend-FastAPI-yellow)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
-![AI](https://img.shields.io/badge/AI-LLaMA--3.3--70B-orange)
+
 
 ---
 
@@ -58,5 +54,5 @@ In the demo walkthrough, both age-group experiences were showcased live!
 
 ---
 
-## 📂 Repo Structure (example)
+
 
